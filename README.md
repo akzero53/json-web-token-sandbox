@@ -2,6 +2,12 @@
 
 sandbox of using json-web-token in authentication.
 
+## how to start server
+
+```bash
+$ ./revel run github.com/akzero53/json-web-token-sandbox/server
+```
+
 ## about revel binary
 
 https://github.com/revel/cmd

@@ -1,0 +1,4 @@
+package: github.com/akzero53/json-web-token-sandbox
+import:
+- package: github.com/revel/revel
+  version: v0.13.1

@@ -10,4 +10,6 @@ $ go get github.com/revel/cmd/revel
 
 ## how to start server
 
-TODO
+```bash
+$ revel run github.com/akzero53/json-web-token-sandbox
+```
